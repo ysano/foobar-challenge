@@ -1,0 +1,21 @@
+#+TITLE: Google foo.bar Challenges
+* About
+  My answers to the google foobar coding challenges.
+
+
+* Level 1
+** [[1/][Minion Labor Shifts]]
+* Level 2
+** [[2/][Power Hungry]]
+** [[3/][Elevator Maintenance]]
+* Level 3
+** [[4/][Find the Access Codes]]
+** [[5/][Fuel Injection Perfection]]
+** [[6/][Prepare the Bunnies' Escape]]
+* Level 4
+** [[7/][Escape Pods]]
+** (not-yet)
+* Level 5
+** (not-yet)
+* Appendix
+  About foobar: [[https://medium.com/plutonic-services/things-you-should-know-about-google-foobar-invitation-703a535bf30f][Things you should know about Google FooBar Invitation]]
